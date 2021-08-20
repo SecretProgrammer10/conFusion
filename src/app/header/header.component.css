@@ -1,6 +1,11 @@
 .jumbotron {
+    padding: 20px;
     margin: 0px 0px;
     background: #9575CD;
     color:floralwhite;
     min-height: 250px;
+}
+
+.active {
+    background: #4527A0;
 }
