@@ -4,3 +4,7 @@
     color:floralwhite;
     min-height: 250px;
 }
+
+.active {
+    background: #4527A0;
+}
